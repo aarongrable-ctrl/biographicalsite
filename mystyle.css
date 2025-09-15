@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+a:link {
+  color: white;
+	background-color: #1282a2;
+	padding: 15px 15px;
+	margin: 5px 15px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+background-color: #1282a2;
+padding: 15px 15px;
+margin: 5px 15px;
+	border-radius: 5px;
+}
+
+/* mouse over link */
+a:hover {
+	  background-color: white;
+	color: #1282a2;
+}
+
+/* selected link */
+a:active {
+  color: #63372c;
+}
+body {
+	background-color:#e4dfda; 
+	color:#011d4d; 
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+}
+#header {
+	background-color: #011D4D; 
+	background-image: url("bannerbg.jpg");
+	background-size: cover;
+	background-position: left;
+	color:#e4dfda; 
+	font-size: 50px; 
+	padding: 25px; 
+	text-align: center;
+}
+#nav {
+	background-color: #034078; 
+	color: #e4dfda; 
+	text-align: center; 
+	padding: 15px;
+	min-height: 50px;
+	line-height: 50px;
+}
+#content {
+	padding: 15px;
+}
+#footer {
+	background-color: #034078;
+	color: #e4dfda;
+	text-align: center;
+	padding: 15px;
+}
+.thirdcolumn {
+	width: 29%;
+	padding: 15px;
+	float: left;
+	margin: 10px;
+}
+.thirdcolumn:hover {
+	transform: scale(1.02);
+	transform: translateY(-5px);
+}
+
+
+
