@@ -32,6 +32,9 @@ body {
 	background-color:#e4dfda; 
 	color:#011d4d; 
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 }
 #header {
 	background-color: #011D4D; 
