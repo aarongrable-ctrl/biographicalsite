@@ -38,7 +38,7 @@ body {
 }
 #header {
 	background-color: #011D4D; 
-	background-image: url("bannerbg.jpg");
+	background-image: url("images/bannerbg.jpg");
 	background-size: cover;
 	background-position: left;
 	color:#e4dfda; 
